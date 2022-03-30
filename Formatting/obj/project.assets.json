@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Formatting\\Formatting.csproj",
+      "projectUniqueName": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Formatting\\Formatting.csproj",
       "projectName": "Formatting",
-      "projectPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Formatting\\Formatting.csproj",
+      "projectPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Formatting\\Formatting.csproj",
       "packagesPath": "C:\\Users\\Devan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Formatting\\obj\\",
+      "outputPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Formatting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Devan\\AppData\\Roaming\\NuGet\\NuGet.Config",

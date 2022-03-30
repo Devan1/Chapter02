@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
+      "projectUniqueName": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
+      "projectPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Variables\\Variables.csproj",
       "packagesPath": "C:\\Users\\Devan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Variables\\obj\\",
+      "outputPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Devan\\AppData\\Roaming\\NuGet\\NuGet.Config",

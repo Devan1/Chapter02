@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
+      "projectPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Numbers\\Numbers.csproj",
       "packagesPath": "C:\\Users\\Devan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Chapter02\\Numbers\\obj\\",
+      "outputPath": "C:\\Users\\Devan\\Documents\\Repos\\C# 10 and .NET 6 Book\\Chapter02\\Chapter02\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Devan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -60,7 +60,7 @@ Console.WriteLine($"Int number changed to default = '{number}'");
 
 string[] names;
 
-//allocating emmory for four strings in an array
+//allocating memory for four strings in an array
 names = new string[4];
 names[0] = "Devan";
 names[1] = "Sam";
