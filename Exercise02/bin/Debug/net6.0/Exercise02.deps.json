@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Arguments/1.0.0": {
+      "Exercise02/1.0.0": {
         "runtime": {
-          "Arguments.dll": {}
+          "Exercise02.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Arguments/1.0.0": {
+    "Exercise02/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
