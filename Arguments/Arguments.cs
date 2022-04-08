@@ -27,4 +27,15 @@ catch (PlatformNotSupportedException)
 {
     WriteLine("The current platform does not support changing the size of the cursor.");
 }
-#error version
+//#error version
+
+//using target type
+Person devan = new();
+devan.BirthDate = new(1986, 06, 25);
+WriteLine(devan.BirthDate);
+class Person
+{
+    public DateTime BirthDate;
+}
+
+

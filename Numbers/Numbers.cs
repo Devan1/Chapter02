@@ -59,3 +59,7 @@ else
 {
     Console.WriteLine($"{c} + {d} does not equal {0.3}");
 }
+
+dynamic name = "Devan";
+int length = name.Length;
+Console.WriteLine(length);

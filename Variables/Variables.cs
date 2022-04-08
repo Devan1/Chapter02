@@ -1,4 +1,5 @@
-﻿object height = 6.44; //storing a double in an object
+﻿using static System.Console;
+object height = 6.44; //storing a double in an object
 object name = "Devan"; //storing a string in an object
 Console.WriteLine($"{name} is {height} feet tall");
 
@@ -9,6 +10,7 @@ Console.WriteLine($"{name} has {length2} characters");
 //storing a string in a dynamic object
 //string has a length property
 dynamic something = "Devan";
+WriteLine($"dynamic something lenght is {something.Length}");
 //int does not have a length property
 something = 12;
 
